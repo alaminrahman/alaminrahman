@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alaminrahman
 - 👀 I’m interested in Fullstack Software Engineering
-- I have strong skill PHP, Laravel, MySQL, VueJs, ReactJS, NextJS, Prisma etc
+- I have strong knowledge about PHP, Laravel, MySQL, VueJs, ReactJS, NextJS, Prisma etc
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me +8801792947974
